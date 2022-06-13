@@ -1,11 +1,6 @@
---------------------POTENTIAL LINKS TO HACKED WEBSITES-------------------
-
 /wp-admin/
 /wp-includes/
 /wp-content/(?!\S{0,60}Campaign\S{0,2}\=)(?!\S{0,60}\.pdf[<\"\t\r\n])(?!\S{0,60}\.jpg[<"\t\r\n])
-
--------------------SUSPICIOUS PATTERNS-------------------
-
 blocked\ your?\ online
 suspicious\ activit
 updated?\ your\ account\ record
@@ -72,9 +67,6 @@ is\.gd/
 tiny\.cc/
 \.joburg
 \.top/
-
--------------------SUSPICIOUS PHRASES-------------------
-
 word must be installed
 prevent further unauthorized
 prevent further unauthorised
@@ -104,9 +96,6 @@ update your account information
 update in our security
 Account Was Limited
 verify and reactivate
-
---------------------SUSPICIOUS SUBJECTS-------------------
-
 has\ been\ limited
 We\ have\ locked
 has\ been\ suspended
@@ -122,4 +111,3 @@ wire\ transfer
 secure\ update
 temporar(il)?y\ deactivated
 verification\ required
-
